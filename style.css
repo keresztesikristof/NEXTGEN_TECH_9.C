@@ -22,3 +22,6 @@
 .box5{
    border: purple 1px solid;
 }
+html{
+   scroll-behavior: smooth;
+}
