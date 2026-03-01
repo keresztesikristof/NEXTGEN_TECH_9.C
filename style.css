@@ -9,11 +9,13 @@
 }
 .box1{
    border: blue 1px solid;
-   text-align: center;
 }
 .box2{
    border: green 1px solid;
 }
 .box3{
    border: red 1px solid;
+}
+h1{
+   text-align: center;
 }
