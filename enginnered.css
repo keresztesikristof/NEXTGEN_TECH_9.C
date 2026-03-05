@@ -1,8 +1,15 @@
 .engibod{
    background-image: url("");
 }
-.creatrors{
-   border: 2px;
-   margin: 1px;
-   padding: 0,5px;
+
+ul {
+  border: 2px solid black;
+  width: 200px;
+  padding: 0;
 }
+
+li {
+  border-bottom: 1px solid gray;
+  padding: 5px;
+}
+
