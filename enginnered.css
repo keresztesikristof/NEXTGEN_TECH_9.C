@@ -1,10 +1,13 @@
 .bod{
    background-image: url("");
 }
+.crators {
+  width: auto;
+}
 
 ul {
   border: 2px solid black;
-  width: 2000px;
+ 
   padding: 0;
 }
 
