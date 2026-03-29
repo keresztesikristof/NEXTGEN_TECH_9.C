@@ -1,5 +1,10 @@
+.dron-blokkok <!--drón.html-hez--> {
+  margin-bottom: 12px;
+  line-height: 1.4;
+}
 .box1{
    border: black 1px solid;
+   border-radius: 24px 24px 24px 24px;
 }
 .box2{
    border: green 1px solid;
